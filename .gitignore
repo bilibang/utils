@@ -127,6 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+<<<<<<< HEAD
 
 
 # customized
@@ -135,3 +136,5 @@ dmypy.json
 .DS_Store
 *.pdf
 **/tmp/
+=======
+>>>>>>> 045c7a9d907188b557f89106c5dc7237e7138ac6
